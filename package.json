@@ -1,0 +1,16 @@
+{
+  "name": "serprankr",
+  "version": "0.0.1",
+  "description": "",
+  "main": "cli.js",
+  "dependencies": {
+    "puppeteer": "^0.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node httpserver.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
